@@ -1,60 +1,311 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSmithing</title><link href="https://www.datasmithing.com/" rel="alternate"></link><link href="https://www.datasmithing.com/feeds/all.atom.xml" rel="self"></link><id>https://www.datasmithing.com/</id><updated>2019-11-25T00:00:00-05:00</updated><entry><title>Newsletter sign-up</title><link href="https://www.datasmithing.com/newsletter-sign-up.html" rel="alternate"></link><published>2019-11-25T00:00:00-05:00</published><updated>2019-11-25T00:00:00-05:00</updated><author><name>Melissa Smith</name></author><id>tag:www.datasmithing.com,2019-11-25:/newsletter-sign-up.html</id><summary type="html">&lt;!-- Begin Sendinblue Form --&gt;
-
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSmithing</title><link href="https://www.datasmithing.com/" rel="alternate"></link><link href="https://www.datasmithing.com/feeds/all.atom.xml" rel="self"></link><id>https://www.datasmithing.com/</id><updated>2019-11-25T00:00:00-05:00</updated><entry><title>Newsletter sign-up</title><link href="https://www.datasmithing.com/newsletter-sign-up.html" rel="alternate"></link><published>2019-11-25T00:00:00-05:00</published><updated>2019-11-25T00:00:00-05:00</updated><author><name>Melissa Smith</name></author><id>tag:www.datasmithing.com,2019-11-25:/newsletter-sign-up.html</id><summary type="html">&lt;p&gt;Datasmithing
+Campaigns
+Transactional
+Contacts
+Contacts
+Lists
+Forms
+Settings
+Plan FREE
+299 emails
+Remaining for today
+Upgrade
+0 SMS Credits
+Get more credits
+right-nav
+Setup
+Return to this step
+Form name: right-nav&lt;/p&gt;
+&lt;p&gt;Design
+Return to this step
+Every month I send fun, relevant strategies to help people make goals and habit …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Datasmithing
+Campaigns
+Transactional
+Contacts
+Contacts
+Lists
+Forms
+Settings
+Plan FREE
+299 emails
+Remaining for today
+Upgrade
+0 SMS Credits
+Get more credits
+right-nav
+Setup
+Return to this step
+Form name: right-nav&lt;/p&gt;
+&lt;p&gt;Design
+Return to this step
+Every month I send fun, relevant strategies to help people make goals and habit change a joy. &lt;/p&gt;
+&lt;p&gt;Sign up to receive a copy in your inbox every month.
+Enter your first name
+FIRSTNAME
+Your name and email address are only used to send you my newsletter and information about my coaching. Unsubscribe anytime using the link included in every email.
+Enter your last name
+LASTNAME
+Enter your email address to subscribe
+EMAIL
+Provide your email address to subscribe. For e.g abc@xyz.com
+SUBSCRIBE
+Terms &amp;amp; Privacy policy
+Lists
+Return to this step
+Selected list(s): Your first list
+Settings
+Return to this step
+Subscription confirmation: Simple confirmation email
+Messages
+Return to this step
+6
+Share
+Quick share&lt;/p&gt;
+&lt;p&gt;Use this link to share your form by email or on social media.&lt;/p&gt;
+&lt;p&gt;https://85c76102.sibforms.com/serve/MUIEAJWqTgB76Dz26h-mLW2hDAiRQUKUXgf0zeGv7BsYXTCQCwc-y6ObQ7ejFwTathGBaPjhwkMGhEW1-dnKcFb7vRvIu-KLMVF4t4U4CAw488dfm1KHdUTBpjMjiWxY7JXmIcjgu6EXYTkDZzZZs3XLEawgGwdvbWl-OLfm5DYZlBAIheI6g5OYaCHEYQpGWyl5_yOkEyEOg26i&lt;/p&gt;
+&lt;p&gt;Embed&lt;/p&gt;
+&lt;p&gt;To learn more about SendinBlue's embeddable forms, please see this article&lt;/p&gt;
+&lt;p&gt;Iframe
+HTML
+Simple HTML
+Use the HTML code to customise your form and use Ajax to animate your messages.&lt;/p&gt;
+&lt;p&gt;00
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+&lt;!-- Begin Sendinblue Form --&gt;
 &lt;!-- START - We recommend to place the below code in head tag of your website html  --&gt;
-
 &lt;style&gt;
   @font-face {
     font-display: block;
     font-family: Roboto;
     src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
-  }
-
-  @font-face {
-    font-display: fallback;
-    font-family: Roboto;
-    font-weight: 600;
-    src: url(https://assets.sendinblue.com/font/Roboto/Latin …&lt;/style&gt;</summary><content type="html">&lt;!-- Begin Sendinblue Form --&gt;
-
-&lt;!-- START - We recommend to place the below code in head tag of your website html  --&gt;
-
-&lt;style&gt;
-  @font-face {
-    font-display: block;
-    font-family: Roboto;
-    src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
-  }
-
-  @font-face {
+  }&lt;/p&gt;
+&lt;p&gt;@font-face {
     font-display: fallback;
     font-family: Roboto;
     font-weight: 600;
     src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
-  }
-
-  @font-face {
+  }&lt;/p&gt;
+&lt;p&gt;@font-face {
     font-display: fallback;
     font-family: Roboto;
     font-weight: 700;
     src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
-  }
-
-  #sib-container input:-ms-input-placeholder {
+  }&lt;/p&gt;
+&lt;p&gt;#sib-container input:-ms-input-placeholder {
     text-align: left;
     font-family: "Helvetica", sans-serif;
     color: #c0ccda;
     border-width: px;
-  }
-
-  #sib-container input::placeholder {
+  }&lt;/p&gt;
+&lt;p&gt;#sib-container input::placeholder {
     text-align: left;
     font-family: "Helvetica", sans-serif;
     color: #c0ccda;
     border-width: px;
   }
 &lt;/style&gt;
-
-&lt;p&gt;&lt;link rel="stylesheet" href="https://assets.sendinblue.com/component/form/2ef8d8058c0694a305b0.css"&gt;
+&lt;link rel="stylesheet" href="https://assets.sendinblue.com/component/form/2ef8d8058c0694a305b0.css"&gt;
 &lt;link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/b056d6397f4ba3108595.css"&gt;
 &lt;link rel="stylesheet" href="https://assets.sendinblue.com/component/progress-indicator/f86d65a4a9331c5e2851.css"&gt;
 &lt;link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css"&gt;
@@ -89,16 +340,59 @@
     &lt;/div&gt;
     &lt;div&gt;&lt;/div&gt;
     &lt;div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid;"&gt;
-      &lt;form id="sib-form" method="POST" action="https://85c76102.sibforms.com/serve/MUIEAI_mu-RV3Q8POINZ93EZ4kWrm6D6xjZdIHka_tpoL7YcPcXKxoNqbWY-5wAYy3-py2fY4v_-Zlqbky2jHUHBWJpuSfm0KGBnyvOmrxfp21gUneZ0QMMvdc2Xd034oCNZ9KwsKcGQzRKIhUITvLPvxN1cw5nhqxb7Fy3_IlPTIiJw_59O6CZMUd4kE5ohz7t07sgxBmf3aiqB"
+      &lt;form id="sib-form" method="POST" action="https://85c76102.sibforms.com/serve/MUIEAJWqTgB76Dz26h-mLW2hDAiRQUKUXgf0zeGv7BsYXTCQCwc-y6ObQ7ejFwTathGBaPjhwkMGhEW1-dnKcFb7vRvIu-KLMVF4t4U4CAw488dfm1KHdUTBpjMjiWxY7JXmIcjgu6EXYTkDZzZZs3XLEawgGwdvbWl-OLfm5DYZlBAIheI6g5OYaCHEYQpGWyl5_yOkEyEOg26i"
         data-type="subscription"&gt;
-        &lt;div style="padding: 16px 0;"&gt;
+        &lt;div style="padding: 8px 0;"&gt;
           &lt;div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#3C4858; background-color:transparent; border-width:px;"&gt;
             &lt;div class="sib-text-form-block"&gt;
-              &lt;p&gt;Subscribe to my monthly newsletter to receive fun ideas and strategies for common goals.&lt;/p&gt;
+              &lt;p&gt;Every month I send fun, relevant strategies to help people make goals and habit change a joy.&amp;nbsp;&lt;/p&gt;
+              &lt;p&gt;
+                &lt;br&gt;
+              &lt;/p&gt;
+              &lt;p&gt;Sign up to receive a copy in your inbox every month.&lt;/p&gt;
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
-        &lt;div style="padding: 16px 0;"&gt;
+        &lt;div style="padding: 8px 0;"&gt;
+          &lt;div class="sib-input sib-form-block"&gt;
+            &lt;div class="form__entry entry_block"&gt;
+              &lt;div class="form__label-row "&gt;
+                &lt;label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#3c4858; border-width:px;" for="FIRSTNAME" data-required="*"&gt;
+                  Enter your first name
+                &lt;/label&gt;
+
+                &lt;div class="entry__field"&gt;
+                  &lt;input class="input" maxlength="200" type="text" id="FIRSTNAME" name="FIRSTNAME" autocomplete="off" placeholder="FIRSTNAME" data-required="true" required /&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+
+              &lt;label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;"&gt;
+              &lt;/label&gt;
+              &lt;label class="entry__specification" style="font-size:12px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#8390A4; border-width:px;"&gt;
+                Your name and email address are only used to send you my newsletter and information about my coaching. Unsubscribe anytime using the link included in every email.
+              &lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style="padding: 8px 0;"&gt;
+          &lt;div class="sib-input sib-form-block"&gt;
+            &lt;div class="form__entry entry_block"&gt;
+              &lt;div class="form__label-row "&gt;
+                &lt;label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#3c4858; border-width:px;" for="LASTNAME" data-required="*"&gt;
+                  Enter your last name
+                &lt;/label&gt;
+
+                &lt;div class="entry__field"&gt;
+                  &lt;input class="input" maxlength="200" type="text" id="LASTNAME" name="LASTNAME" autocomplete="off" placeholder="LASTNAME" data-required="true" required /&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+
+              &lt;label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;"&gt;
+              &lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style="padding: 8px 0;"&gt;
           &lt;div class="sib-input sib-form-block"&gt;
             &lt;div class="form__entry entry_block"&gt;
               &lt;div class="form__label-row "&gt;
@@ -107,7 +401,7 @@
                 &lt;/label&gt;
 
                 &lt;div class="entry__field"&gt;
-                  &lt;input class="input" maxlength="200" type="email" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required /&gt;
+                  &lt;input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required /&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
 
@@ -119,9 +413,9 @@
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
-        &lt;div style="padding: 16px 0;"&gt;
-          &lt;div class="sib-form-block" style="text-align: left"&gt;
-            &lt;button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:left; font-weight:700; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#FFFFFF; background-color:#3E4857; border-radius:3px; border-width:0px;"
+        &lt;div style="padding: 8px 0;"&gt;
+          &lt;div class="sib-form-block" style="text-align: center"&gt;
+            &lt;button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:center; font-weight:700; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#FFFFFF; background-color:#0767f7; border-radius:5px; border-width:0px;"
               form="sib-form" type="submit"&gt;
               &lt;svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512"&gt;
                 &lt;path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
@@ -131,7 +425,7 @@
             &lt;/button&gt;
           &lt;/div&gt;
         &lt;/div&gt;
-        &lt;div style="padding: 16px 0;"&gt;
+        &lt;div style="padding: 8px 0;"&gt;
           &lt;div class="sib-form-block" style="font-size:14px; text-align:center; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#333; background-color:transparent; border-width:px;"&gt;
             &lt;div class="sib-text-form-block"&gt;
               &lt;p&gt;
@@ -153,8 +447,6 @@
 &lt;!-- START - We recommend to place the below code in footer or bottom of your website html  --&gt;
 
 &lt;script&gt;
-  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
-
   window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
 
   window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
@@ -181,7 +473,11 @@
 
 &lt;!-- END - We recommend to place the above code in footer or bottom of your website html  --&gt;
 
-&lt;!-- End Sendinblue Form --&gt;</content></entry><entry><title>Habit Coaching Pricing</title><link href="https://www.datasmithing.com/coaching-pricing.html" rel="alternate"></link><published>2019-11-24T00:00:00-05:00</published><updated>2019-11-24T00:00:00-05:00</updated><author><name>Melissa Smith</name></author><id>tag:www.datasmithing.com,2019-11-24:/coaching-pricing.html</id><summary type="html">&lt;p&gt;I would love to help you make changes to your life in ways that suit your personality, while minimizing frustration, shame, and self-defeat. Change isn't always easy, but together we can craft strategies that help you swim with the current of your life instead of against it.
+&lt;!-- End Sendinblue Form --&gt;
+
+&lt;p&gt;Done
+Learn more about the
+GDPR&lt;/p&gt;</content></entry><entry><title>Habit Coaching Pricing</title><link href="https://www.datasmithing.com/coaching-pricing.html" rel="alternate"></link><published>2019-11-24T00:00:00-05:00</published><updated>2019-11-24T00:00:00-05:00</updated><author><name>Melissa Smith</name></author><id>tag:www.datasmithing.com,2019-11-24:/coaching-pricing.html</id><summary type="html">&lt;p&gt;I would love to help you make changes to your life in ways that suit your personality, while minimizing frustration, shame, and self-defeat. Change isn't always easy, but together we can craft strategies that help you swim with the current of your life instead of against it.
 &lt;/br&gt;&lt;/br&gt;
 Every potential client …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I would love to help you make changes to your life in ways that suit your personality, while minimizing frustration, shame, and self-defeat. Change isn't always easy, but together we can craft strategies that help you swim with the current of your life instead of against it.
 &lt;/br&gt;&lt;/br&gt;
