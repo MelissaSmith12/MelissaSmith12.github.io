@@ -1,5 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSmithing - Posts</title><link href="https://www.datasmithing.com/" rel="alternate"></link><link href="https://www.datasmithing.com/feeds/posts.atom.xml" rel="self"></link><id>https://www.datasmithing.com/</id><updated>2020-03-24T00:00:00-04:00</updated><entry><title>Remote Works!</title><link href="https://www.datasmithing.com/remote-works-newsletter.html" rel="alternate"></link><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><author><name>Melissa Smith</name></author><id>tag:www.datasmithing.com,2020-03-24:/remote-works-newsletter.html</id><summary type="html">&lt;p&gt;Every day, it seems like there’s another business that asks its employees to work remotely. For some people, this can be really stressful, and I wanted to do something to help people through these stressful times. I have over a decade of experience working from home, so I’ve …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Every day, it seems like there’s another business that asks its employees to work remotely. For some people, this can be really stressful, and I wanted to do something to help people through these stressful times. I have over a decade of experience working from home, so I’ve started an additional newsletter to share a small, steady stream of resources and tools I’ve learned over the years. Working from home can bring a lot of joy, along with a particular set of struggles. On Mondays, Wednesdays, and Fridays, I’ll share tools for sharing a space with your spouse and kids, setting and bending boundaries, how to stay connected with people even though you’re physically isolated, and much more.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSmithing - Posts</title><link href="https://www.datasmithing.com/" rel="alternate"></link><link href="https://www.datasmithing.com/feeds/posts.atom.xml" rel="self"></link><id>https://www.datasmithing.com/</id><updated>2020-04-09T00:00:00-04:00</updated><entry><title>Add a little fun to your quarantine walks</title><link href="https://www.datasmithing.com/scavenger-hunt-walks.html" rel="alternate"></link><published>2020-04-09T00:00:00-04:00</published><updated>2020-04-09T00:00:00-04:00</updated><author><name>Melissa Smith</name></author><id>tag:www.datasmithing.com,2020-04-09:/scavenger-hunt-walks.html</id><summary type="html">&lt;p&gt;Have you been taking yourself and your family on walks through the neighborhood during the COVID-19 pandemic? Are the walks beginning to lose their novelty? Are your kids resisting walks because they're super boring?&lt;/p&gt;
+&lt;p&gt;Let's liven things up with a virtual Scavenger Hunt. You can join by subscribing to the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Have you been taking yourself and your family on walks through the neighborhood during the COVID-19 pandemic? Are the walks beginning to lose their novelty? Are your kids resisting walks because they're super boring?&lt;/p&gt;
+&lt;p&gt;Let's liven things up with a virtual Scavenger Hunt. You can join by subscribing to the newsletter below or following me on Facebook or Twitter. Each hunt will have its own theme. One lucky person who tweets, emails, or Facebooks me a photo from the hunt will get featured in the following Hunt. &lt;/p&gt;
+&lt;p&gt;I'll start off running the Scavenger Hunt once a week on Sundays. Once I hit 50 subscribers, I'll increase it to three days a week. And once I hit 100, I'll publish a daily Scavenger Hunt. So please spread the news to other folks whose walks could use a little extra fun. &lt;/p&gt;
+&lt;!-- Begin Sendinblue Form --&gt;
+
+&lt;!-- START - We recommend to place the below code in head tag of your website html  --&gt;
+
+&lt;style&gt;
+  @font-face {
+    font-display: block;
+    font-family: Roboto;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 600;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+  }
+
+  #sib-container input:-ms-input-placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+    border-width: px;
+  }
+
+  #sib-container input::placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+    border-width: px;
+  }
+&lt;/style&gt;
+
+&lt;p&gt;&lt;link rel="stylesheet" href="https://assets.sendinblue.com/component/form/2ef8d8058c0694a305b0.css"&gt;
+&lt;link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/b056d6397f4ba3108595.css"&gt;
+&lt;link rel="stylesheet" href="https://assets.sendinblue.com/component/progress-indicator/f86d65a4a9331c5e2851.css"&gt;
+&lt;link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css"&gt;
+&lt;!--  END - We recommend to place the above code in head tag of your website html --&gt;&lt;/p&gt;
+&lt;!-- START - We recommend to place the below code where you want the form in your website html  --&gt;
+
+&lt;div class="sib-form" style="text-align: center;
+         background-color: #EFF2F7;                                 "&gt;
+  &lt;div id="sib-form-container" class="sib-form-container"&gt;
+    &lt;div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;max-width:540px; border-width:px;"&gt;
+      &lt;div class="sib-form-message-panel__text sib-form-message-panel__text--center"&gt;
+        &lt;svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon"&gt;
+          &lt;path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z"
+          /&gt;
+        &lt;/svg&gt;
+        &lt;span class="sib-form-message-panel__inner-text"&gt;
+                          Your subscription could not be saved. Please try again.
+                      &lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;/div&gt;
+    &lt;div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-width:px; border-color:#13ce66;max-width:540px; border-width:px;"&gt;
+      &lt;div class="sib-form-message-panel__text sib-form-message-panel__text--center"&gt;
+        &lt;svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon"&gt;
+          &lt;path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"
+          /&gt;
+        &lt;/svg&gt;
+        &lt;span class="sib-form-message-panel__inner-text"&gt;
+                          Your subscription has been successful.
+                      &lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;/div&gt;
+    &lt;div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid;"&gt;
+      &lt;form id="sib-form" method="POST" action="https://85c76102.sibforms.com/serve/MUIEANcWWjbf4oKk14hBbjVbt4J88O925S0v9OP6Qb1vAaJyIog8GpxEQia-xLPOGkqCLlW5NMQekqhZzX_yjwmaHVUXBHv7Wm_4Mlc2I_IBs43D-cQnrngPQx1Ek9dG1jXVsqDXTCuLe5BiqZxwzIqwnVlgJYmrlkMZaKuC6zNxFN8CaIBDn04wSehIpMzJQq7wt-L-3gGGgOur"
+        data-type="subscription"&gt;
+        &lt;div style="padding: 8px 0;"&gt;
+          &lt;div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#3C4858; background-color:transparent; border-width:px;"&gt;
+            &lt;p&gt;Daily Walk Scavenger Hunt&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style="padding: 8px 0;"&gt;
+          &lt;div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#3C4858; background-color:transparent; border-width:px;"&gt;
+            &lt;div class="sib-text-form-block"&gt;
+              &lt;p&gt;Subscribe to get Scavenger Hunts filled with things for you and your family to do to keep your walks fun and interesting.&amp;nbsp;&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style="padding: 8px 0;"&gt;
+          &lt;div class="sib-input sib-form-block"&gt;
+            &lt;div class="form__entry entry_block"&gt;
+              &lt;div class="form__label-row "&gt;
+                &lt;label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#3c4858; border-width:px;" for="EMAIL" data-required="*"&gt;
+                  Enter your email address to subscribe
+                &lt;/label&gt;
+
+                &lt;div class="entry__field"&gt;
+                  &lt;input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required /&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+
+              &lt;label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;"&gt;
+              &lt;/label&gt;
+              &lt;label class="entry__specification" style="font-size:12px; text-align:left; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#8390A4; border-width:px;"&gt;
+                Provide your email address to subscribe. For e.g abc@xyz.com
+              &lt;/label&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style="padding: 8px 0;"&gt;
+          &lt;div class="sib-form-block" style="text-align: left"&gt;
+            &lt;button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:left; font-weight:700; font-family:&amp;quot;Helvetica&amp;quot;, sans-serif; color:#FFFFFF; background-color:#3E4857; border-radius:3px; border-width:0px;"
+              form="sib-form" type="submit"&gt;
+              &lt;svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512"&gt;
+                &lt;path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
+                /&gt;
+              &lt;/svg&gt;
+              SUBSCRIBE
+            &lt;/button&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;input type="text" name="email_address_check" value="" class="input--hidden"&gt;
+        &lt;input type="hidden" name="locale" value="en"&gt;
+      &lt;/form&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- END - We recommend to place the below code where you want the form in your website html  --&gt;
+
+&lt;!-- START - We recommend to place the below code in footer or bottom of your website html  --&gt;
+
+&lt;script&gt;
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+
+  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+
+  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+
+
+
+
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected'
+    }
+  };
+
+  var AUTOHIDE = Boolean(0);
+&lt;/script&gt;
+
+&lt;script src="https://sibforms.com/forms/end-form/build/main.js"&gt;
+&lt;/script&gt;
+
+&lt;script src="https://www.google.com/recaptcha/api.js?hl=en"&gt;&lt;/script&gt;
+
+&lt;!-- END - We recommend to place the above code in footer or bottom of your website html  --&gt;
+
+&lt;!-- End Sendinblue Form --&gt;</content></entry><entry><title>Remote Works!</title><link href="https://www.datasmithing.com/remote-works-newsletter.html" rel="alternate"></link><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><author><name>Melissa Smith</name></author><id>tag:www.datasmithing.com,2020-03-24:/remote-works-newsletter.html</id><summary type="html">&lt;p&gt;Every day, it seems like there’s another business that asks its employees to work remotely. For some people, this can be really stressful, and I wanted to do something to help people through these stressful times. I have over a decade of experience working from home, so I’ve …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Every day, it seems like there’s another business that asks its employees to work remotely. For some people, this can be really stressful, and I wanted to do something to help people through these stressful times. I have over a decade of experience working from home, so I’ve started an additional newsletter to share a small, steady stream of resources and tools I’ve learned over the years. Working from home can bring a lot of joy, along with a particular set of struggles. On Mondays, Wednesdays, and Fridays, I’ll share tools for sharing a space with your spouse and kids, setting and bending boundaries, how to stay connected with people even though you’re physically isolated, and much more.&lt;/p&gt;
 &lt;p&gt;Maybe you’ve been working remotely for years. Or maybe your company announced this week that you’ll be working from home starting now until further notice. Either way, the remote work experience can be beautiful or infuriating, sometimes in the same moment. My newsletter delivers strategies and activities three days a week to help you set up systems and habits that will let you more easily adapt to working from home or level up your working from home game.&lt;/p&gt;
 &lt;!-- Begin Sendinblue Form --&gt;
 
@@ -240,17 +407,21 @@
 &lt;p&gt;All of these things are worth finding out before you invest your company’s time or (more importantly) your energy on solving the problem. &lt;/p&gt;
 &lt;h2&gt;If you’re hosting a webinar or livestream, recruit an admin&lt;/h2&gt;
 &lt;p&gt;All web conferencing software has a chat ability that people can use to ask questions (and horse around). Have you had the pleasure of being in a meeting where the person leading the meeting is also keeping one eye on the chats as they are trying to talk? It’s like watching a live PSA for not texting while driving. They might as well be doing vodka shots every slide of their presentation. &lt;/p&gt;
-&lt;p&gt;Recruit an admin. They’ll wrangle the chat area so that you can focus. That could involve the following:
-Providing technical support to people who aren’t connecting
-Using the interface to mute people with disruptive audio
-Answering clarifying questions that you’ve already covered
-Keeping track of the questions, organizing them, and sending them to you during the question period of your talk, or raising them immediately, as appropriate&lt;/p&gt;
+&lt;p&gt;Recruit an admin. They’ll wrangle the chat area so that you can focus. That could involve the following: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Providing technical support to people who aren’t connecting&lt;/li&gt;
+&lt;li&gt;Using the interface to mute people with disruptive audio&lt;/li&gt;
+&lt;li&gt;Answering clarifying questions that you’ve already covered&lt;/li&gt;
+&lt;li&gt;Keeping track of the questions, organizing them, and sending them to you during the question period of your talk, or raising them immediately, as appropriate&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;Pay it forward (or backwards)&lt;/h2&gt;
-&lt;p&gt;If you’ve got that one co-worker or friend who always helps you out of your technical jams, offer some sort of treat for their help. That person could be playing IT support for lots of people right now. Here’s some ideas to pay it back or forward:
-- Offer some virtual babysitting by playing a game over webcam with their kids
-- Order them a Yum box subscription (provided they don’t have dietary restrictions)
-- Order them a gift delivery or curbside from their favorite local restaurant or bakery. You can surprise them by collaborating with their partner or roommate to figure out their tastes
-- Send them a YouTube playlist to brighten their day&lt;/p&gt;
+&lt;p&gt;If you’ve got that one co-worker or friend who always helps you out of your technical jams, offer some sort of treat for their help. That person could be playing IT support for lots of people right now. Here are some ideas to pay it back or forward: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Offer some virtual babysitting by playing a game over webcam with their kids&lt;/li&gt;
+&lt;li&gt;Order them a Yum box subscription (provided they don’t have dietary restrictions)&lt;/li&gt;
+&lt;li&gt;Order them a gift delivery or curbside from their favorite local restaurant or bakery. You can surprise them by collaborating with their partner or roommate to figure out their tastes&lt;/li&gt;
+&lt;li&gt;Send them a YouTube playlist to brighten their day&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;If you’re interested in getting helpful newsletters about working remotely three days a week, sign up below!&lt;/p&gt;
 &lt;!-- Begin Sendinblue Form --&gt;
 
