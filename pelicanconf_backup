@@ -1,0 +1,55 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+AUTHOR = 'Melissa Smith'
+SITENAME = 'DataSmithing'
+SITEURL = 'http://www.datasmithing.com/'
+
+PATH = 'content'
+
+TIMEZONE = 'America/New_York'
+
+DEFAULT_LANG = 'En'
+
+LOAD_CONTENT_CACHE = False
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+import bulrush
+import lessc
+
+THEME = bulrush.PATH
+JINJA_ENVIRONMENT = bulrush.ENVIRONMENT
+JINJA_FILTERS = bulrush.FILTERS
+##JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+##PLUGIN_PATHS = ['/path/to/git/pelican-plugins'] PLUGINS = ['i18n_subsites']
+
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['assets']
+
+# THEME = 'pelican-themes/html5-dopetrope'
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
+# Blogroll
+LINKS = (('Sign up for my newsletter', 'http://www.datasmithing.com/category/newsletter.html'),
+          ('Sign up for the Move More 2020 Anti-Challenge', 'http://www.datasmithing.com/category/move-more-2020-anti-challenge.html'),)
+
+# Social widget
+SOCIAL = (('Instagram', 'https://www.instagram.com/datasmithing/'),
+          ('Twitter', 'https://twitter.com/datasmithing1?lang=en'),)
+
+DEFAULT_PAGINATION = 10
+USE_FOLDER_AS_CATEGORY = False
+
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
+
+DISPLAY_PAGES_ON_MENU = True
