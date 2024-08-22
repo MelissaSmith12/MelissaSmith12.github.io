@@ -8,7 +8,7 @@ SITEDESCRIPTION = 'Habit coaching to help you get out of your own way'
 SITEURL = 'http://localhost:8000'
 
 # plugins
-PLUGIN_PATHS = ['pelican-plugins']
+PLUGIN_PATHS = ['plugins']
 # PLUGINS = []
 PLUGINS = ['i18n_subsites']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
