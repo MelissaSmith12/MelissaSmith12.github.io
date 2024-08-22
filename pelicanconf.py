@@ -9,21 +9,21 @@ SITEURL = 'http://localhost:8000'
 
 # plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = []
+# PLUGINS = []
 PLUGINS = ['i18n_subsites']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 #JINJA_ENVIRONMENT = {'trim_blocks': True, 'lstrip_blocks': True}
 
 # theme and theme localization
 THEME = 'pelican-fh5co-marble'
-#I18N_GETTEXT_LOCALEDIR = '\pelican-fh5co-marble\locale'
-#I18N_GETTEXT_DOMAIN = 'messages'
-#I18N_GETTEXT_NEWSTYLE = True
+I18N_GETTEXT_LOCALEDIR = '\pelican-fh5co-marble\locale'
+I18N_GETTEXT_DOMAIN = 'messages'
+I18N_GETTEXT_NEWSTYLE = True
 TIMEZONE = 'Europe/Zurich'
 DEFAULT_DATE_FORMAT = '%a, %d %b %Y'
-#I18N_TEMPLATES_LANG = 'en_US'
-#DEFAULT_LANG = 'en'
-#LOCALE = 'en_US'
+I18N_TEMPLATES_LANG = 'en_US'
+DEFAULT_LANG = 'en'
+LOCALE = 'en_US'
 
 # content paths
 PATH = 'content'

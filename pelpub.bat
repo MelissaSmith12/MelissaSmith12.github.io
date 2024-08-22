@@ -1,1 +1,1 @@
-pelican content --output output --settings publishconf.py
+py -m pelican content --output output --settings publishconf.py
