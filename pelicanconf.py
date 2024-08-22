@@ -23,7 +23,7 @@ TIMEZONE = 'Europe/Zurich'
 DEFAULT_DATE_FORMAT = '%a, %d %b %Y'
 I18N_TEMPLATES_LANG = 'en_US'
 DEFAULT_LANG = 'en'
-LOCALE = 'en_US'
+# LOCALE = 'en_US'
 
 # content paths
 PATH = 'content'
