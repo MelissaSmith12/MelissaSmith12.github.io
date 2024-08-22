@@ -7,11 +7,10 @@ jobs:
       - uses: actions/checkout@v4
       - run: pip install pelican
       - run: py -m pelican content --output output --settings publishconf.py
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
           path: output/
-      - uses: actions/deploy-pages@v4
   publish:
     needs: build
     runs-on: ubuntu-latest
