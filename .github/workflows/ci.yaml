@@ -1,0 +1,26 @@
+name: CI
+on: [push]
+jobs:
+  build: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pelican
+      - run: python -m pelican content --output output --settings publishconf.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          name: github-pages
+          path: output/
+  publish:
+    needs: build
+    if: ${{ github.ref == 'refs/heads/master' }}
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
