@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install pelican
-      - run: python -m pelican content --output output --settings pelicanconf.py
+      - run: python -m pelican content --output output --settings publishconf.py
       - uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
