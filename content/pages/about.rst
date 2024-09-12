@@ -14,8 +14,6 @@ About Me
         :width: 200px
         :alt: a caucasian woman with dark brown hair and wearing a purple shirt
 
-Boogers2
-
 Melissa Smith is the sole owner, content creator, habit coach, and occasional programmer at DataSmithing. I use my talents and experience in problem solving, productivity, and my own neurodivergent lived experience to coach my clients to maximize their potential while minimizing friction. That’s productivity-speak for “stop being perpetually frustrated because you can’t seem to succeed at your life’s passion without burning out.” 
 
 But I am not a proponent of toxic productivity or positivity. Instead, my mission is to help you find joy and happiness in life by pursuing your strengths and your interests, by find out which strategies work for you and which ones just result in you tripping up again and again. Willpower isn't the answer. Together, we'll adjust your approach and your environment.
