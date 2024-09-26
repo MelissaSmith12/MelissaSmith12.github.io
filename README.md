@@ -4,11 +4,17 @@ Basically, see the instructions in this resource: https://spapas.github.io/2013/
 
 I renamed pelrun to pelgeneratecontent
 
-## Usage
+## Local Development
 
 ```powershell
-pip install pelican
-.\pelgencontent.bat # dev server, or maybe just a build watcher
-.\pelpub.bat # run a build
+pip install pelican Markdown
+.\pelgencontent.bat # run a build
 .\pelserve.bat # serve the build
 ```
+
+## Todo
+
+- [ ] Support darkmode
+- [ ] Fix favicon
+- [ ] Update, remove, or replace Google Analytics
+- [ ] Add Bluesky, YouTube, Patreon to social charms
