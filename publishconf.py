@@ -16,9 +16,6 @@ RELATIVE_URLS = True
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
-
 DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
