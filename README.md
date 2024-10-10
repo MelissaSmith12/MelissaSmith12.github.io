@@ -16,6 +16,8 @@ pip install pelican Markdown
 
 Anything merged to master will be deployed automatically.
 
+Save all your files, and then...
+
 ```powershell
 git status # confirm you're on correct branch
 git checkout -b branch-name # create a new branch if needed
