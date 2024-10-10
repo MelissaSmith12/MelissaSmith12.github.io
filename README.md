@@ -12,6 +12,24 @@ pip install pelican Markdown
 .\pelserve.bat # serve the build
 ```
 
+## Deployment
+
+Anything merged to master will be deployed automatically.
+
+```powershell
+git status # confirm you're on correct branch
+git checkout -b branch-name # create a new branch if needed
+git add . # stage all changes
+git status # confirm all changes are staged
+git commit -m "message" # commit changes
+git push --set-upstream origin branch-name # push changes
+```
+
+Now you can go to github.com and create a pull request from
+your new branch to master. This will allow you to see if
+the site builds successfully before merging to master and
+triggering a deploy.
+
 ## Todo
 
 - [ ] Support darkmode
