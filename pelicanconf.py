@@ -65,6 +65,10 @@ SOCIAL = (
   ('Instagram', 'https://instagram.com/datasmithing'),
 )
 
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       'extra/favicon.ico': {'path': 'favicon.ico'}}
+
 ABOUT = {
   'image': '/images/about/headshot.jpg',
   'mail': 'melissa@datasmithing.com',
