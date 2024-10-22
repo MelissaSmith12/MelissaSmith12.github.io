@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: Datasmithing
+    runtime: static
+    previews: 
+      generation: automatic
+    staticPublishPath: ./output
+    buildCommand: |
+      pip install --upgrade pip;
+      pip install poetry;
+      /opt/render/project/src/.venv/bin/poetry install;
+      pip install pelican Markdown;
+      python -m pelican content --output output --settings publishconf.py;
