@@ -33,8 +33,7 @@ the site builds successfully before merging to master and
 triggering a deploy.
 
 ## Todo
-
+- [ ] Adjust CI for deploy previews
 - [ ] Support darkmode
-- [ ] Fix favicon
 - [ ] Update, remove, or replace Google Analytics
 - [ ] Add Bluesky, YouTube, Patreon to social charms
