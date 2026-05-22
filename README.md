@@ -7,6 +7,8 @@ I renamed pelrun to pelgeneratecontent
 ## Local Development
 
 ```powershell
+python3 -m venv .venv
+source .venv/bin/activate
 pip install pelican Markdown
 .\pelgencontent.bat # run a build
 .\pelserve.bat # serve the build
